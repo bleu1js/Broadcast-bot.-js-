@@ -54,5 +54,5 @@ client.login('YOUR_BOT_TOKEN');
 </tr>
 </table>
   </body>
-  <A href="https://bleu1js.github.io/Blue._.js/><h2>HOME PAGE</h2></A>
+  <A href="https://bleu1js.github.io/Blue._.js"><h2>HOME PAGE</h2></A>
 </html>
