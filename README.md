@@ -4,12 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <ul>
+   <h3> <ul>
       <li>file name(index.js)</li>
       <li>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12</li>
       <li>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</li>
-    </ul>
-    <h6>const Discord = require('discord.js');
+    </ul></h3><br>
+    const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '+';
 
@@ -39,6 +39,6 @@ client.on('message', message => {
     }
 });
 
-client.login('YOUR_BOT_TOKEN');</h6>
+client.login('YOUR_BOT_TOKEN');
   </body>
 </html>
