@@ -53,6 +53,13 @@ client.login('YOUR_BOT_TOKEN');
 </td>
 </tr>
 </table>
+<style>
+  body}
+    background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٣٠٥.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+</style>
   </body>
   <A href="https://bleu1js.github.io/Blue._.js"><h2>•HOME PAGE</h2></A>
 </html>
