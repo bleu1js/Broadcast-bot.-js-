@@ -2,14 +2,16 @@
   <head>
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <ul><il>
-      filname:index.js
-    </il><il>gg</il></ul>
-    <h6>
-        
-const Discord = require('discord.js');
+  </head>
+  <body>
+    <ul>
+      <li>file name(index.js)</li>
+      <li>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12</li>
+      <li>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</li>
+    </ul>
+    <h6>const Discord = require('discord.js');
 const client = new Discord.Client();
-const prefix = '+'; 
+const prefix = '+';
 
 client.once('ready', () => {
     console.log('Bot is ready!');
@@ -22,17 +24,14 @@ client.on('message', message => {
     const command = args.shift().toLowerCase();
 
     if (command === 'broadcast') {
-        // ا
         if (!message.member.hasPermission('ADMINISTRATOR')) {
             return message.reply('ليس لديك الصلاحيات الكافية لإرسال البرودكاست.');
         }
 
-        // استخدام الـ prefix بدلاً من '!'
         const broadcastMessage = args.join(' ');
 
-        // إرسال البرودكاست ومنشن الأعضاء
         message.guild.members.cache.forEach(member => {
-            if (member.user.bot) return; // تجاهل البوتات
+            if (member.user.bot) return;
             member.send(`<@${member.id}> ${broadcastMessage}`).catch(console.error);
         });
 
@@ -40,11 +39,6 @@ client.on('message', message => {
     }
 });
 
-// قم بتغيير "YOUR_DISCORD_BOT_TOKEN" إلى توكن البوت الخاص بك
-client.login('YOUR_TOKEN_HERE');
-    </h6>
-  </head>
-  <body>
-    
+client.login('YOUR_BOT_TOKEN');</h6>
   </body>
 </html>
