@@ -9,7 +9,10 @@
       <li>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12</li>
       <li>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</li>
     </ul></h3><br>
-    <h4>PROJECT:</h4><br>
+    <h2>PROJECT:</h2><br>
+    <table>
+      <tr>
+        <td>
     const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '+';
@@ -41,5 +44,8 @@ client.on('message', message => {
 });
 
 client.login('YOUR_BOT_TOKEN');
+</td>
+</tr>
+</table>
   </body>
 </html>
