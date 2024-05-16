@@ -7,7 +7,7 @@
     <style>
       body{
         background-image: url('Picsart_24-05-16_20-56-54-582.jpg');
-        background-size: cover;
+        
       }
     </style>
    <h3> <ul>
