@@ -15,7 +15,7 @@
       <li>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12</li>
       <li>dont forget replace"YOUR_TOKEN_BOT" WITH TOKEN BOT</li>
     </ul></h3><br>
-    <h2>PROJECT:</h2><br>
+    <h2>PROJECT CODS:</h2><br>
     <table>
       <tr>
         <td>
@@ -53,6 +53,7 @@ client.login('YOUR_BOT_TOKEN');
 </td>
 </tr>
 </table>
+<A href="index.js"><h2>DOWNLOAD PROJECT FILE</h2></A>
 <style>
   body}
     background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٣٠٥.jpg');
