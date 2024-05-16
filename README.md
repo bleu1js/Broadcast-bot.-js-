@@ -4,6 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
+    <style>
+      b{
+        background-color:blue;
+        background-topic:middle;
+      }
+    </style>
    <h3> <ul>
       <li>file name(index.js)</li>
       <li>before running your bot must you use this cod in consol or shell if you cant writing on consol"npm install discord.js@12</li>
