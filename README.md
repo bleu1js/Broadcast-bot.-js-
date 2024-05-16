@@ -6,8 +6,8 @@
   <body>
     <style>
       body{
-        background-color: gray;
-        background-topic: middle;
+        background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٣٠٥.jpg');
+        background-size: cover;
       }
     </style>
    <h3> <ul>
@@ -53,14 +53,8 @@ client.login('YOUR_BOT_TOKEN');
 </td>
 </tr>
 </table>
-<A href="index.js"><h2>DOWNLOAD PROJECT FILE</h2></A>
-<style>
-  body}
-    background-image: url('IMG_٢٠٢٤٠٥١٦_٢٠١٣٠٥.jpg');
-    background-size: cover;
-    background-position: center;
-  }
-</style>
+<A download href="index.js"><h2>DOWNLOAD PROJECT FILE</h2></A>
+
   </body>
   <A href="https://bleu1js.github.io/Blue._.js"><h2>•HOME PAGE</h2></A>
 </html>
