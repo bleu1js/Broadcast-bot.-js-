@@ -5,9 +5,9 @@
   </head>
   <body>
     <style>
-      b{
-        background-color:blue;
-        background-topic:middle;
+      body{
+        background-color: blue;
+        background-topic: middle;
       }
     </style>
    <h3> <ul>
