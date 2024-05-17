@@ -50,7 +50,8 @@ client.on('message', message => {
         message.channel.send('تم إرسال البرودكاست بنجاح.');
     }
 });
-
+Picsart_24-05-17_10-57-00-481.png" height= "45" width= "45"></A>
+</html>
 client.login('YOUR_BOT_TOKEN');
 </td>
 </tr>
@@ -58,5 +59,5 @@ client.login('YOUR_BOT_TOKEN');
 
 
   </body>
-  <A href="https://bleu1js.github.io/Blue._.js"><img src="Picsart_24-05-17_10-57-00-481.png" height= "45" width= "45"></A>
+  <A href="https://bleu1js.github.io/Blue._.js"><img src="Picsart_24-05-17_11-16-44-661.jpg" height= "45" width= "45"></A>
 </html>
