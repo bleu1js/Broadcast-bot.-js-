@@ -58,5 +58,5 @@ client.login('YOUR_BOT_TOKEN');
 
 
   </body>
-  <A href="https://bleu1js.github.io/Blue._.js"><img src="IMG_٢٠٢٤٠٥١٦_٢٠١٣٠٥.jpg" height= "35" width= "35"></A>
+  <A href="https://bleu1js.github.io/Blue._.js"><img src="تنزيل - ٢٠٢٤-٠٥-١٧T١٠٤٦٤٢.٢٧١.png" height= "35" width= "35"></A>
 </html>
